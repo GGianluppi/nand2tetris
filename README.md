@@ -14,10 +14,17 @@
     * **[Dmux]()**
 
   * 16-bit variants
-    * **[]()**
+    * **[Not16]()**
+    * **[And16]()**
+    * **[Or16]()**
+    * **[Mux16]()**
 
   * Multi-way variants
-    * **[]()**
+    * **[Or8Way]()**
+    * **[Mux4Way16]()**
+    * **[Mux8Way16]()**
+    * **[Dmux4Way]()**
+    * **[Dmux8Way]()**
 
 * **Week 2 - Boolean Arithmetic and the ALU ```[Binary Numbers, Negative Numbers, Arithmetic Logic Unit (ALU)]```**
   * Problem set
