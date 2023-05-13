@@ -5,12 +5,12 @@
 # Table of Contents 
 
 * **Week 1 - Boolean Functions and Gate Logic ```[Boolean Logic, Logic Gates, Hardware Description Language, Hardware Simulation]```**
-  * Elementary Logic Gates         * 16-bit variants            * Multi-way variants
-    * **[Not]()**                    * **[Not16]()**              * **[Or8Way]()**
-    * **[And]()**                    * **[And16]()**              * **[Mux4Way16]()**
-    * **[Or]()**                     * **[Or16]()**               * **[Mux8Way16]()**
-    * **[Xor]()**                    * **[Mux16]()**              * **[Dmux4Way]()**
-    * **[Mux]()**                                                 * **[Dmux8Way]()**
+  * Elementary Logic Gates                    
+    * **[Not]()**                                
+    * **[And]()**                              
+    * **[Or]()**                                 
+    * **[Xor]()**                              
+    * **[Mux]()**                                                 
     * **[Dmux]()**
 
   * 16-bit variants
