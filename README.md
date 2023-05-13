@@ -5,7 +5,18 @@
 # Table of Contents 
 
 * **Week 1 - Boolean Functions and Gate Logic ```[Boolean Logic, Logic Gates, Hardware Description Language, Hardware Simulation]```**
-  * Problem set
+  * Elementary Logic Gates
+    * **[Not]()**
+    * **[And]()**
+    * **[Or]()**
+    * **[Xor]()**
+    * **[Mux]()**
+    * **[Dmux]()**
+
+  * 16-bit variants
+    * **[]()**
+
+  * Multi-way variants
     * **[]()**
 
 * **Week 2 - Boolean Arithmetic and the ALU ```[Binary Numbers, Negative Numbers, Arithmetic Logic Unit (ALU)]```**
