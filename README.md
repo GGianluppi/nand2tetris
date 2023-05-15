@@ -28,7 +28,11 @@
 
 * **Week 2 - Boolean Arithmetic and the ALU ```[Binary Numbers, Negative Numbers, Arithmetic Logic Unit (ALU)]```**
   * Problem set
-    * **[]()**
+    * **[HalfAdder]()**
+    * **[FullAdder]()**
+    * **[Add16]()**
+    * **[Inc16]()**
+    * **[ALU]()**
 
 * **Week 3 - Memory ```[Sequential Logic, Flip Flops, Memory Units, Counters]```**
   * Problem set
