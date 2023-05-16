@@ -36,7 +36,14 @@
 
 * **Week 3 - Memory ```[Sequential Logic, Flip Flops, Memory Units, Counters]```**
   * Problem set
-    * **[]()**
+    * **[Bit]()**
+    * **[Register]()**
+    * **[PC]()**
+    * **[RAM8]()**
+    * **[RAM16]()**
+    * **[RAM512]()**
+    * **[RAM4K]()**
+    * **[RAM16K]()**
 
 * **Week 4 - Machine Language ```[Input / Output, low-level programming, binary machine language]```**
   * Problem set
