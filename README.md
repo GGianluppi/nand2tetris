@@ -45,7 +45,7 @@
     * **[RAM4K]()**
     * **[RAM16K]()**
 
-* **Week 4 - Machine Language ```[Input / Output, low-level programming, binary machine language]```**
+* **Week 4 - Machine Language ```[Input / Output, low-level programming, The Hack Computer and Machine Language]```**
   * Problem set
     * **[]()**
 
