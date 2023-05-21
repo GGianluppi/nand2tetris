@@ -47,7 +47,8 @@
 
 * **Week 4 - Machine Language ```[Input / Output, low-level programming, The Hack Computer and Machine Language]```**
   * Problem set
-    * **[]()**
+    * **[Fill]()**
+    * **[Multi]()**
 
 * **Week 5 - Computer Architecture ```[Von Neumann Architecture, The Fetch-Execute Cycle, Central Processing Unit]```**
   * Problem set
