@@ -52,7 +52,9 @@
 
 * **Week 5 - Computer Architecture ```[Von Neumann Architecture, The Fetch-Execute Cycle, Central Processing Unit]```**
   * Problem set
-    * **[]()**
+    * **[Computer]()**
+    * **[CPU]()**
+    * **[Memory]()**
 
 * **Week 6 - Assembler ```[Assembly Languages and Assemblers, The Assembly Process - Handling Instructions/Symbols, Developing a Hack Assembler]```**
   * Problem set
